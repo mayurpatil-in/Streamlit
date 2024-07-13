@@ -24,3 +24,18 @@ st.title("This is a title")
 st.markdown("This is markdown")
 st.markdown("# This is markdown")
 st.markdown("## This is markdown")
+
+
+# Displaying Colored Text/Bootstreap Alert
+st.success("Successful")
+st.warning("This is Danger")
+st.info("This is information")
+st.error("This is an error")
+st.exception("This is an exception")
+
+
+
+
+
+
+
