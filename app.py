@@ -33,7 +33,14 @@ st.info("This is information")
 st.error("This is an error")
 st.exception("This is an exception")
 
+# Superfunction
+st.write("Normal Text")
+st.write("## This is a markdown text")
+st.write(1+2)
+st.write(dir(st))
 
+# Help Info
+st.help(range)
 
 
 
