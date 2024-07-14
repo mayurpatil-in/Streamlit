@@ -18,3 +18,13 @@ st.table(df)
 
 # Method 3: Using superfxn st.write
 st.write(df.head())
+
+# Display Json
+st.json({'data':'name'})
+
+# Display Code
+mycode="""
+def sayhello():
+    print("Hello Mayur")
+"""
+st.code(mycode)
