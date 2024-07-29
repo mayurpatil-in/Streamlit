@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-# Title of the app
+# Title of the app str
 st.title("Hi Streamlit")
 
 #Text
